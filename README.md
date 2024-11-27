@@ -1,13 +1,6 @@
 <h1 align="center"> Welcome to Jennifer Agbo's GitHub </h1>
 <h3 align="center"> Economist | Data Analyst | Researcher </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jenamara-agbo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=jenamara-agbo&theme=gruvbox&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🌍 About Me
 Hi there! I’m Jennifer Agbo, an **Economist**, **Data Analyst**, and **Researcher** passionate about leveraging data for evidence-based decision-making and policy design.  
 
