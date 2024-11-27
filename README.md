@@ -22,16 +22,24 @@ Currently, I’m pursuing my **MA in International and Development Economics** a
   - Investigating **youth involvement in climate change** and **gender equity in Nigeria**  
 
 ---
-
 ### 📂 Featured Projects
-📊 **Economic Analysis Repository**  
-🔗 [Explore Project](https://github.com/Jenamara-Agbo/Economic-Analysis)
+📊 **Python Fundamentals**  
+🔗 [Explore Project](https://github.com/Jenamara-Agbo/Python-Fundamentals)
 
-🌍 **Nigeria-China Trade and Clean Energy Research**  
-🔗 [Explore Project](https://github.com/Jenamara-Agbo/Trade-Clean-Energy)
+🌍 **Files and Text Analysis**  
+🔗 [Explore Project](https://github.com/Jenamara-Agbo/Working-with-Files-and-Text-Analysis)
 
-📝 **Word Frequency Analysis of Presidential Speeches**  
-🔗 [Explore Project](https://github.com/Jenamara-Agbo/Presidential-Speeches)
+📝 **Data Visualization and Categorization with Python**  
+🔗 [Explore Project](Data-Visualization-and-Categorization-with-Python)
+
+📝 **Mango Call Center**  
+🔗 [Explore Project](https://github.com/Jenamara-Agbo/Automated-Mango-Call-Center-in-Mali-Python-)
+
+📝 **Anthropic AI Insights**  
+🔗 [Explore Project](https://github.com/Jenamara-Agbo/Anthropic-Constitutional-AI-Analysis-and-Insights)
+
+📊 **Elm City Pizza System**  
+🔗 [Explore Project](https://github.com/Jenamara-Agbo/Python-Function-Practice-and-Elm-City-Pizza-Ordering-System)
 
 ---
 
